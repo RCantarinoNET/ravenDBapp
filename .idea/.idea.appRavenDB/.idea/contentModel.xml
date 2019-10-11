@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Renato Cantarino\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Renato Cantarino\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_appRavenDB.654567259.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Renato Cantarino\RiderProjects\appRavenDB" t="IncludeFlat">
+      <e p="appRavenDB" t="IncludeRecursive">
+        <e p="appRavenDB.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DocumentManager.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="appRavenDB.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="appRavenDB.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

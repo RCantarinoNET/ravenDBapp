@@ -1,0 +1,16 @@
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.exe
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.deps.json
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.runtimeconfig.json
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.runtimeconfig.dev.json
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\appRavenDB.pdb
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\Lambda2Js.Signed.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\Raven.Client.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\bin\Debug\netcoreapp3.0\Sparrow.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.csprojAssemblyReference.cache
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.AssemblyInfoInputs.cache
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.AssemblyInfo.cs
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.csproj.CopyComplete
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.dll
+C:\Users\Renato Cantarino\RiderProjects\appRavenDB\appRavenDB\obj\Debug\netcoreapp3.0\appRavenDB.pdb
